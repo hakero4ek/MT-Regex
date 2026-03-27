@@ -3,7 +3,7 @@
 "versionCode": 270326,
 "versionName": "27.03.26",
 "apk_url": "https://github.com/hakero4ek/MT-Regex/raw/refs/heads/main/MT%20Regex%20(27.03.26).apk",
-"changelog":"[270326]Регулярки \n•  Возможность создавать несколько регулярок \n• Добавлена сортировка: dex, xml, manifest \n• Возможность добавить Регулярки из Alter (Импорт файлов)",
+"changelog":"[270326]Регулярки \n•  Возможность создавать несколько регулярок \n• Возможность добавить Регулярки из Alter (Импорт файлов)",
 
 "force": false
 }
