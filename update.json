@@ -1,12 +1,4 @@
 {
-"versionCode": 60326,
-"versionName": "06.03.26",
-"apk_url": "https://drive.google.com/file/d/1vbJ0A-_iUYHiaWywgS4Ip-RaASmgeVdu/view?usp=drivesdk",
-"changelog": "• Новый Regex\n• Улучшена подсветка",
-"force": false
-}
-
-{
 "json_version": 1,
 "versionCode": 270326,
 "versionName": "27.03.26",
